@@ -1,2 +1,5 @@
 # PPT
- Python particle tracking code for plankton movement around Australia's Antarctic bases and subantarctic islands
+
+Particle tracking examples from Casey Station, Antarctica 
+Uses Python OpenDrift software package
+Available from : https://opendrift.github.io/
